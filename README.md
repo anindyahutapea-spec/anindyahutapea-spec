@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Steven Peterson 👋
 
-<!--
-**anindyahutapea-spec/anindyahutapea-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a psychiatrist at Mcintyre, Anderson and Gonzales. My work centers on mental health and compassionate, evidence-informed care.
 
-Here are some ideas to get you started:
+## Areas of Practice
+- Psychiatry
+- Mental health
+- Patient-centered care
+- Evidence-informed practice
+- Clinical communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+_Add a current project, research interest, or professional initiative._
+
+## Connect
+- [Website](https://meza.info/)
+- [Website](https://moore.com/)
+- [Website](https://www.jenkins.org/)
+- [Website](http://douglas.biz/)
